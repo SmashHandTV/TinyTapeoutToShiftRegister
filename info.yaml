@@ -4,8 +4,7 @@ project:
   title:        "Shift_Register"      # Project title
   author:       "Simon Haeusler"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Shift Register which runs along the outer ring of the seven segment. The middle Segment changes state every 2 clock inputs. 
-  the ring can be inverted."      # One line description of what your project does
+  description:  "Shift Register which runs along the outer ring of the seven segment."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
